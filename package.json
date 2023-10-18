@@ -1,0 +1,17 @@
+{
+    "name": "sam-gist",
+    "version": "1.0.0",
+    "description": "",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "author": "",
+    "license": "ISC",
+    "devDependencies": {
+        "@aws-sdk/client-dynamodb": "^3.272.0",
+        "@aws-sdk/client-s3": "^3.272.0",
+        "@aws-sdk/lib-dynamodb": "^3.282.0",
+        "@aws-sdk/s3-request-presigner": "^3.430.0",
+        "@aws-sdk/util-dynamodb": "^3.278.0"
+    }
+}
